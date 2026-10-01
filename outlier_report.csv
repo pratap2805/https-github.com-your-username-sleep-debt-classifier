@@ -1,0 +1,13 @@
+column,lower_bound,upper_bound,outlier_count
+age,-0.5,67.5,0
+bedtime_phone_minutes,-41.0,151.0,237
+screen_brightness_pct,1.5,109.5,0
+blue_light_filter_active,-1.5,2.5,0
+caffeine_post_5pm_mg,-82.5,137.5,483
+physical_activity_min,-22.5,93.5,40
+sleep_latency_min,-4.050000000000008,81.95000000000002,247
+total_sleep_hours,2.075000000000001,10.514999999999999,0
+deep_sleep_pct,13.4,30.199999999999996,50
+rem_sleep_pct,12.299999999999995,25.900000000000006,76
+morning_alarm_snoozes,-1.0,7.0,0
+next_day_fatigue_score,-5.65,12.35,0

@@ -1,0 +1,30 @@
+,importance
+num__total_sleep_hours,0.7819898049450423
+num__next_day_fatigue_score,0.21801005507083546
+num__deep_sleep_pct,1.3998412038825256e-07
+num__physical_activity_min,1.0443223052942372e-15
+num__sleep_latency_min,5.557699484081615e-16
+num__rem_sleep_pct,1.1995172954133311e-16
+cat__primary_bedtime_app_News / Reading,1.1458918786999228e-16
+num__screen_brightness_pct,1.6994182909224256e-17
+num__bedtime_phone_minutes,0.0
+num__caffeine_post_5pm_mg,0.0
+num__blue_light_filter_active,0.0
+num__morning_alarm_snoozes,0.0
+num__age,0.0
+cat__gender_Female,0.0
+cat__gender_Male,0.0
+cat__occupation_type_Corporate 9-to-5,0.0
+cat__gender_Non-Binary,0.0
+cat__occupation_type_Healthcare / Shift Worker,0.0
+cat__occupation_type_Remote Tech,0.0
+cat__occupation_type_Student,0.0
+cat__occupation_type_Freelance / Creative,0.0
+cat__chronotype_Intermediate,0.0
+cat__chronotype_Morning Lark,0.0
+cat__primary_bedtime_app_Instagram / Reddit,0.0
+cat__chronotype_Night Owl,0.0
+cat__primary_bedtime_app_Messaging / Chat,0.0
+cat__primary_bedtime_app_Streaming (Netflix/Hulu),0.0
+cat__primary_bedtime_app_TikTok / Reels,0.0
+cat__primary_bedtime_app_YouTube,0.0
